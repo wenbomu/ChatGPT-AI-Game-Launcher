@@ -1,2 +1,3 @@
 # ChatGPT-AI-Game-Launcher
-This algorithm utilize chatGPT to generate game for user in python.
+generate_game.py:
+This algorithm utilizes chatGPT to generate games for users in Python.
